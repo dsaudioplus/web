@@ -20,7 +20,7 @@ const RESOURCES = {
 "assets/assets/images/dart.png": "735531cda11c098d9eed28ead619ab41",
 "assets/assets/images/android12splash.png": "1b156e18a51eec7a6c707e7f32f323fb",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "22783cdd197b803b95039a08d4353fc1",
+"assets/NOTICES": "012f7398ad313da3d492f08d6cdc4f28",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
@@ -32,8 +32,8 @@ const RESOURCES = {
 "assets/packages/fluent_ui/fonts/FluentIcons.ttf": "1cd173aed13e298ab2663dd0924f6762",
 "assets/FontManifest.json": "0cc815b4a8e40f5e33617b67348fd87d",
 "assets/AssetManifest.json": "45658a82e77b74934b787f1575bd6a09",
-"index.html": "05f8fc6ada128e862a4960106d00f11f",
-"/": "05f8fc6ada128e862a4960106d00f11f",
+"index.html": "ebb5c5b09606552987652ef92e651fd3",
+"/": "ebb5c5b09606552987652ef92e651fd3",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "1df38ea0e8da43dd284e4f86b0e57322",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -58,7 +58,7 @@ const RESOURCES = {
 "splash/img/dark-3x.png": "ddff9c2afc9ae725ee435dcb5fd89040",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
 "splash/style.css": "cbfe62a2c7e6af0e29b484d30610f3cf",
-"main.dart.js": "506b56c9013c22dfc57ce78af53b4259",
+"main.dart.js": "5df5f7cbb3fd5123f9b5dc873040315f",
 "manifest.json": "956c8a0bc02bd667fec8b82ff28fcc23"
 };
 
